@@ -401,7 +401,28 @@ function myFunction() {
                                             <div class="chart-content-inner">
                                                 <h2 class="title">1  = RPDA ?(Soon) USDT</h2>
                                                 <p>If anyone wants to participate in funding allocation (allocation for Airdrop), please send ETH from the base chain to the following address.  offering rewards, making it easy for investors to purchase and sell their tokens.</p>
-                                               
+                                                <div class="banner-content text-center">
+                                
+
+                                                     <input type="text" value="0x57148De80cBb0b2cc7556889f5e9001Cf232CB68" id="myInput">
+                         <button onclick="myFunction()">Copy Wallet Adress</button>
+                         
+                         <script>
+                         function myFunction() {
+                           // Get the text field
+                           var copyText = document.getElementById("myInput");
+                         
+                           // Select the text field
+                           copyText.select();
+                           copyText.setSelectionRange(0, 99999); // For mobile devices
+                         
+                           // Copy the text inside the text field
+                           navigator.clipboard.writeText(copyText.value);
+                           
+                           // Alert the copied text
+                           alert("Copied the text: " + copyText.value);
+                         }
+                         </script>
                                             </div>
                                         </div>
                                         
