@@ -402,27 +402,60 @@ function myFunction() {
                                                 <h2 class="title">1  = RPDA ?(Soon) USDT</h2>
                                                 <p>If anyone wants to participate in funding allocation (allocation for Airdrop), please send ETH from the base chain to the following address.  offering rewards, making it easy for investors to purchase and sell their tokens.</p>
                                                 <div class="banner-content text-center">
-                                
-
-                                                     <input type="text" value="0x57148De80cBb0b2cc7556889f5e9001Cf232CB68" id="myInput">
-                         <button onclick="myFunction()">Copy Wallet Adress</button>
-                         
-                         <script>
-                         function myFunction() {
-                           // Get the text field
-                           var copyText = document.getElementById("myInput");
-                         
-                           // Select the text field
-                           copyText.select();
-                           copyText.setSelectionRange(0, 99999); // For mobile devices
-                         
-                           // Copy the text inside the text field
-                           navigator.clipboard.writeText(copyText.value);
-                           
-                           // Alert the copied text
-                           alert("Copied the text: " + copyText.value);
-                         }
-                         </script>
+                                                    <style>
+                                                        .tooltip {
+                                                          position: relative;
+                                                          display: inline-block;
+                                                        }
+                                                      
+                                                        .tooltip .tooltiptext {
+                                                          visibility: hidden;
+                                                          width: 120px;
+                                                          background-color: black;
+                                                          color: #fff;
+                                                          text-align: center;
+                                                          border-radius: 6px;
+                                                          padding: 5px;
+                                                          position: absolute;
+                                                          z-index: 1;
+                                                          bottom: 125%;
+                                                          left: 50%;
+                                                          margin-left: -60px;
+                                                          opacity: 0;
+                                                          transition: opacity 0.3s;
+                                                        }
+                                                      
+                                                        .tooltip .tooltiptext::after {
+                                                          content: "";
+                                                          position: absolute;
+                                                          top: 100%;
+                                                          left: 50%;
+                                                          margin-left: -5px;
+                                                          border-width: 5px;
+                                                          border-style: solid;
+                                                          border-color: black transparent transparent transparent;
+                                                        }
+                                                      
+                                                        .tooltip:hover .tooltiptext {
+                                                          visibility: visible;
+                                                          opacity: 1;
+                                                        }
+                                                      </style>
+                                                      </head>
+                                                      <body>
+                                                      
+                                                      <p>
+                                                        <input type="text" value="0x57148De80cBb0b2cc7556889f5e9001Cf232CB68" id="myInput1">
+                                                      </p>
+                                                      
+                                                      <div class="tooltip">
+                                                        <button onclick="myFunction('myInput1')" onmouseout="outFunc()">
+                                                          <span class="tooltiptext" id="myTooltip1">Copy to clipboard</span>
+                                                          Copy text 1
+                                                        </button>
+                                                      </div>
+                                                      
+                                                      
                                             </div>
                                         </div>
                                         
