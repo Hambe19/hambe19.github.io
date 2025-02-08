@@ -26,4 +26,24 @@ NFUzTXQ1eVp1VkdiejlGTXdBak41VVRNaTlsTjJJVE4yZ1RPell6ZGZSM2NweDJhdVZIYWo5Q2JwMTJj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pMDzu5r.png" group-title="None",TVM HD
 PWdUZHowbUwwTlhhc3RtYjFoMll2MFdZbEpIZHpWbWRweDJMbFpYYXM5U056a1RNNmNUTXg0U04zNFNPMkVqTDBVekx2b0RjMFJIYQ==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/y4HzNVW.jpg" group-title="None",VTV
-PT1BTzFOVGJ1UTNjcHgyYXVWSGFqOVNZcFJXWnRaM0xsWlhhc1pIZDI5U056a1RNNjAyYmo1eVl1WlhldDV5WnVsV2JoVm1jME5uZDBaM0x2b0RjMFJIYQ==
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+#EXTINF:-1 tvg-id="Channel13.mv" tvg-logo="https://i.imgur.com/6Vmy4pC.png" group-title="General",Channel 13
+https://stream.theyraonline.com/live/channel13@live/index.m3u8
+#EXTINF:-1 tvg-id="MaldivesTV.mv" tvg-logo="https://i.imgur.com/Zl2FmFC.png" group-title="Travel",Maldives TV
+https://live.maldivestv.mv/hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv" tvg-logo="https://i.imgur.com/21tpl5b.png" group-title="General",MMTV
+https://sendlive.online:443/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="Munnaaru.mv" tvg-logo="https://i.imgur.com/8YiSEX1.png" group-title="Religious",Munnaaru
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-id="OceanTVNetwork.mv" tvg-logo="https://i.imgur.com/nqdkLl5.jpeg" group-title="News",Ocean TV Network
+https://egress-stkplz7mbu4ftbof3zr94.live.streamer.wpstream.net/ev_wps_52076_oceant53da84_221_1717304220/hls/5yjq1wbd06ffe4t4.m3u8
+#EXTINF:-1 tvg-id="RaajjeTV.mv" tvg-logo="https://i.imgur.com/NvYCCGl.png" group-title="News",Raajje TV
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 tvg-id="SSTV.mv" tvg-logo="https://i.imgur.com/jtIhDZk.png" group-title="General",SSTV
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
+#EXTINF:-1 tvg-id="TVMaldives.mv" tvg-logo="https://i.imgur.com/1c7rFKC.png" group-title="",TV Maldives
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/9e93379c0d46ee588b99263d95bd9c42/manifest/video.m3u8
+#EXTINF:-1 tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News",VTV
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="YES.mv" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="News",YES
+https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
