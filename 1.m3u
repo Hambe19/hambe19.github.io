@@ -12,7 +12,7 @@ https://stream.raajje.mv/live/rtv_live/index.m3u8
 #EXTINF:-1 tvg-id="SSTV.mv" tvg-logo="https://i.imgur.com/jtIhDZk.png" group-title="General",SSTV
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 #EXTINF:-1 tvg-id="TVMaldives.mv" tvg-logo="https://i.imgur.com/1c7rFKC.png" group-title="",TV Maldives
-https://customer-ujex1meek7koqd9x.cloudflarestream.com/21262545317dadfa20dab4f9bd37c7c2/manifest/video.m3u8
+https://tvm.ishaukath.workers.dev/a48b16941662a8bd6eca86ceece4ce26/manifest/video.m3u
 #EXTINF:-1 tvg-id="VTV.mv" tvg-logo="https://i.imgur.com/6bY9Umo.png" group-title="News",VTV
 https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="YES.mv" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="News",YES
